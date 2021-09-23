@@ -4,8 +4,8 @@ import styled from "@emotion/styled";
 
 const Mensaje = styled.p`
   background-color: rgb(127, 224, 237);
-  padding: 0.5rem;
-  margin-top: 1rem;
+  padding: 0.7rem;
+  margin-top: 1.5rem;
   text-align: center;
 `;
 

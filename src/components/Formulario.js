@@ -45,7 +45,6 @@ const Error = styled.div`
   background-color: red;
   color: #fff;
   padding: 1rem;
-  width: 100%;
   text-align: center;
   margin-bottom: 2rem;
 `;
